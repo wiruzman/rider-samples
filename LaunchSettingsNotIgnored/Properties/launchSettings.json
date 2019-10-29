@@ -1,0 +1,8 @@
+﻿{
+  "profiles": {
+    "LaunchSettingsNotIgnored": {
+      "commandName": "Project",
+      "commandLineArgs": "$(ProjectDir)"
+    }
+  }
+}
